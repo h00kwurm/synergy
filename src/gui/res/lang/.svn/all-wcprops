@@ -1,0 +1,515 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1813/trunk/src/gui/res/lang
+END
+gui_ru.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_ru.ts
+END
+gui_sl-SI.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sl-SI.ts
+END
+gui_sk-SK.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sk-SK.ts
+END
+gui_ja-JP.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ja-JP.qm
+END
+gui_id.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_id.ts
+END
+gui_zh-TW.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_zh-TW.qm
+END
+gui_si.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_si.qm
+END
+gui_cy.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_cy.qm
+END
+gui_pt-PT.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pt-PT.ts
+END
+gui_bg-BG.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_bg-BG.qm
+END
+gui_vi.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_vi.qm
+END
+gui_zh-CN.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_zh-CN.qm
+END
+gui_grk.qm
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_grk.qm
+END
+gui_pl-PL.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_pl-PL.qm
+END
+gui_th-TH.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_th-TH.qm
+END
+gui_it.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_it.ts
+END
+gui_ru.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_ru.qm
+END
+gui_sl-SI.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sl-SI.qm
+END
+gui_sk-SK.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sk-SK.qm
+END
+gui_lt.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_lt.ts
+END
+gui_cs-CZ.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_cs-CZ.ts
+END
+gui_id.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_id.qm
+END
+gui_hu-HU.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_hu-HU.ts
+END
+gui_pt-PT.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pt-PT.qm
+END
+gui_it.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_it.qm
+END
+gui_ca-AD.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ca-AD.ts
+END
+gui_lt.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_lt.qm
+END
+gui_cs-CZ.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_cs-CZ.qm
+END
+gui_es.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_es.ts
+END
+gui_ko.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ko.ts
+END
+gui_no.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_no.ts
+END
+gui_hu-HU.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_hu-HU.qm
+END
+gui_uk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_uk.ts
+END
+gui_ro.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_ro.ts
+END
+gui_nl-NL.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_nl-NL.ts
+END
+gui_hr-HR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_hr-HR.ts
+END
+gui_pt-BR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pt-BR.ts
+END
+gui_ca-AD.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ca-AD.qm
+END
+gui_es.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_es.qm
+END
+gui_pes-IR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pes-IR.ts
+END
+gui_ko.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ko.qm
+END
+gui_ar.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ar.ts
+END
+gui_no.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_no.qm
+END
+gui_uk.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_uk.qm
+END
+gui_ro.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_ro.qm
+END
+gui_nl-NL.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_nl-NL.qm
+END
+gui_fr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_fr.ts
+END
+gui_hr-HR.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_hr-HR.qm
+END
+gui_tr-TR.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_tr-TR.ts
+END
+gui_pt-BR.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pt-BR.qm
+END
+gui_sq-AL.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sq-AL.ts
+END
+gui_mr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_mr.ts
+END
+gui_lv.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_lv.ts
+END
+gui_da.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_da.ts
+END
+gui_sr.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sr.ts
+END
+gui_pes-IR.qm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_pes-IR.qm
+END
+gui_ur.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ur.ts
+END
+gui_de.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_de.ts
+END
+gui_sv.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sv.ts
+END
+gui_ar.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ar.qm
+END
+gui_he.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_he.ts
+END
+gui_fi.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_fi.ts
+END
+gui_fr.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_fr.qm
+END
+gui_tr-TR.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_tr-TR.qm
+END
+gui_ja-JP.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ja-JP.ts
+END
+gui_sq-AL.qm
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sq-AL.qm
+END
+gui_mr.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_mr.qm
+END
+gui_lv.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_lv.qm
+END
+gui_zh-TW.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_zh-TW.ts
+END
+gui_si.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_si.ts
+END
+gui_da.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_da.qm
+END
+gui_cy.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_cy.ts
+END
+gui_sr.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sr.qm
+END
+Languages.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1801/trunk/src/gui/res/lang/Languages.xml
+END
+gui_ur.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_ur.qm
+END
+gui_bg-BG.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_bg-BG.ts
+END
+gui_vi.ts
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_vi.ts
+END
+gui_de.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_de.qm
+END
+gui_sv.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_sv.qm
+END
+gui_zh-CN.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_zh-CN.ts
+END
+gui_grk.ts
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_grk.ts
+END
+gui_he.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_he.qm
+END
+gui_pl-PL.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1813/trunk/src/gui/res/lang/gui_pl-PL.ts
+END
+gui_th-TH.ts
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_th-TH.ts
+END
+gui_fi.qm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1801/trunk/src/gui/res/lang/gui_fi.qm
+END

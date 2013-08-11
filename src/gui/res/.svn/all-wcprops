@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1842/trunk/src/gui/res
+END
+AboutDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/gui/res/AboutDialogBase.ui
+END
+MainWindowBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1842/trunk/src/gui/res/MainWindowBase.ui
+END
+ServerConfigDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1464/trunk/src/gui/res/ServerConfigDialogBase.ui
+END
+ActionDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1464/trunk/src/gui/res/ActionDialogBase.ui
+END
+Synergy.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1842/trunk/src/gui/res/Synergy.qrc
+END
+ScreenSettingsDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/src/gui/res/ScreenSettingsDialogBase.ui
+END
+SettingsDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1810/trunk/src/gui/res/SettingsDialogBase.ui
+END
+SetupWizardBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1830/trunk/src/gui/res/SetupWizardBase.ui
+END
+HotkeyDialogBase.ui
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1464/trunk/src/gui/res/HotkeyDialogBase.ui
+END

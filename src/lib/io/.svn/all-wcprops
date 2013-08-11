@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1837/trunk/src/lib/io
+END
+XIO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1807/trunk/src/lib/io/XIO.cpp
+END
+ECryptoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1807/trunk/src/lib/io/ECryptoMode.h
+END
+CCryptoStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1837/trunk/src/lib/io/CCryptoStream.cpp
+END
+CCryptoOptions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1807/trunk/src/lib/io/CCryptoOptions.cpp
+END
+XIO.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1807/trunk/src/lib/io/XIO.h
+END
+CStreamFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1837/trunk/src/lib/io/CStreamFilter.cpp
+END
+CCryptoStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1837/trunk/src/lib/io/CCryptoStream.h
+END
+CCryptoOptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1807/trunk/src/lib/io/CCryptoOptions.h
+END
+IStreamFilterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1656/trunk/src/lib/io/IStreamFilterFactory.h
+END
+IStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1837/trunk/src/lib/io/IStream.h
+END
+CStreamFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1837/trunk/src/lib/io/CStreamFilter.h
+END
+CStreamBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/io/CStreamBuffer.cpp
+END
+CCryptoMode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1807/trunk/src/lib/io/CCryptoMode.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1837/trunk/src/lib/io/CMakeLists.txt
+END
+CStreamBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/lib/io/CStreamBuffer.h
+END
+CCryptoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1807/trunk/src/lib/io/CCryptoMode.h
+END

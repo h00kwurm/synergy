@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/1846/trunk/src/micro
+END
+uSynergy.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1725/trunk/src/micro/uSynergy.c
+END
+COPYING.zlib
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1511/trunk/src/micro/COPYING.zlib
+END
+uSynergy.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1846/trunk/src/micro/uSynergy.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1656/trunk/src/micro/CMakeLists.txt
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1846/trunk/src/gui
+END
+gui.pro
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1801/trunk/src/gui/gui.pro
+END
+lang.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1464/trunk/src/gui/lang.cmd
+END
+langbuild.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1604/trunk/src/gui/langbuild.cmd
+END
+gui.ts
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1801/trunk/src/gui/gui.ts
+END

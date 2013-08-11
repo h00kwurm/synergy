@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1656/trunk/src/lib/mt
+END
+CCondVar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1656/trunk/src/lib/mt/CCondVar.cpp
+END
+CThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/lib/mt/CThread.h
+END
+CLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1656/trunk/src/lib/mt/CLock.h
+END
+CCondVar.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1656/trunk/src/lib/mt/CCondVar.h
+END
+XThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/lib/mt/XThread.h
+END
+CMutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1656/trunk/src/lib/mt/CMutex.cpp
+END
+XMT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1656/trunk/src/lib/mt/XMT.cpp
+END
+CMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1656/trunk/src/lib/mt/CMutex.h
+END
+CThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1656/trunk/src/lib/mt/CThread.cpp
+END
+CLock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/lib/mt/CLock.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/lib/mt/CMakeLists.txt
+END
+XMT.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1656/trunk/src/lib/mt/XMT.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/!svn/ver/1855/trunk
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/1464/trunk/configure
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/!svn/ver/1464/trunk/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1464/trunk/INSTALL
+END
+hm.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/1464/trunk/hm.cmd
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/!svn/ver/1774/trunk/ChangeLog
+END
+COMPILE
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1464/trunk/COMPILE
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1656/trunk/COPYING
+END
+.lvimrc
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/!svn/ver/1464/trunk/.lvimrc
+END
+hm.py
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/1853/trunk/hm.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/!svn/ver/1840/trunk/README
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1853/trunk/CMakeLists.txt
+END
+hm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/!svn/ver/1464/trunk/hm.sh
+END

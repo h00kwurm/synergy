@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1464/trunk/tools/gmock-1.6.0
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/configure.ac
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/CHANGES
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/Makefile.am
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/CONTRIBUTORS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/aclocal.m4
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/CMakeLists.txt
+END

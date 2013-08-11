@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/config.h.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/depcomp
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/missing
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/ltmain.sh
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/build-aux/install-sh
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1845/trunk/src/lib/ipc
+END
+CIpcServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1845/trunk/src/lib/ipc/CIpcServer.cpp
+END
+CIpcServerProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1837/trunk/src/lib/ipc/CIpcServerProxy.cpp
+END
+CIpcServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1845/trunk/src/lib/ipc/CIpcServer.h
+END
+Ipc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1656/trunk/src/lib/ipc/Ipc.cpp
+END
+CIpcServerProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1837/trunk/src/lib/ipc/CIpcServerProxy.h
+END
+CIpcLogOutputter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1656/trunk/src/lib/ipc/CIpcLogOutputter.cpp
+END
+CIpcClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1845/trunk/src/lib/ipc/CIpcClient.cpp
+END
+CIpcClientProxy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1837/trunk/src/lib/ipc/CIpcClientProxy.cpp
+END
+Ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1656/trunk/src/lib/ipc/Ipc.h
+END
+CIpcLogOutputter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/lib/ipc/CIpcLogOutputter.h
+END
+CIpcClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1845/trunk/src/lib/ipc/CIpcClient.h
+END
+CIpcMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1656/trunk/src/lib/ipc/CIpcMessage.cpp
+END
+CIpcClientProxy.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1837/trunk/src/lib/ipc/CIpcClientProxy.h
+END
+CIpcMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/lib/ipc/CIpcMessage.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/lib/ipc/CMakeLists.txt
+END

@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1846/trunk/src/gui/src
+END
+AboutDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/gui/src/AboutDialog.h
+END
+ScreenSetupView.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1656/trunk/src/gui/src/ScreenSetupView.h
+END
+ActionDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/gui/src/ActionDialog.h
+END
+IpcReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1846/trunk/src/gui/src/IpcReader.h
+END
+Hotkey.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1656/trunk/src/gui/src/Hotkey.cpp
+END
+BaseConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1656/trunk/src/gui/src/BaseConfig.h
+END
+QSynergyApplication.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1801/trunk/src/gui/src/QSynergyApplication.h
+END
+AppConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1818/trunk/src/gui/src/AppConfig.h
+END
+Ipc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1846/trunk/src/gui/src/Ipc.cpp
+END
+ServerConfigDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1656/trunk/src/gui/src/ServerConfigDialog.cpp
+END
+Action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1656/trunk/src/gui/src/Action.cpp
+END
+IpcClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1846/trunk/src/gui/src/IpcClient.h
+END
+Screen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1656/trunk/src/gui/src/Screen.cpp
+END
+VersionChecker.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1846/trunk/src/gui/src/VersionChecker.h
+END
+ScreenSettingsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/1656/trunk/src/gui/src/ScreenSettingsDialog.cpp
+END
+MainWindow.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1842/trunk/src/gui/src/MainWindow.h
+END
+SetupWizard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1846/trunk/src/gui/src/SetupWizard.cpp
+END
+TcpSocketReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1846/trunk/src/gui/src/TcpSocketReader.cpp
+END
+HotkeyDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/gui/src/HotkeyDialog.cpp
+END
+QUtility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1846/trunk/src/gui/src/QUtility.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1801/trunk/src/gui/src/main.cpp
+END
+KeySequenceWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1656/trunk/src/gui/src/KeySequenceWidget.cpp
+END
+SettingsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1801/trunk/src/gui/src/SettingsDialog.h
+END
+SynergyLocale.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1846/trunk/src/gui/src/SynergyLocale.h
+END
+TrashScreenWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1656/trunk/src/gui/src/TrashScreenWidget.cpp
+END
+KeySequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/gui/src/KeySequence.h
+END
+ScreenSetupModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/gui/src/ScreenSetupModel.h
+END
+AboutDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1656/trunk/src/gui/src/AboutDialog.cpp
+END
+ScreenSetupView.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/gui/src/ScreenSetupView.cpp
+END
+ActionDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/gui/src/ActionDialog.cpp
+END
+IpcReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1846/trunk/src/gui/src/IpcReader.cpp
+END
+BaseConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/gui/src/BaseConfig.cpp
+END
+ServerConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/gui/src/ServerConfig.h
+END
+NewScreenWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1656/trunk/src/gui/src/NewScreenWidget.h
+END
+QSynergyApplication.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1801/trunk/src/gui/src/QSynergyApplication.cpp
+END
+AppConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1818/trunk/src/gui/src/AppConfig.cpp
+END
+Hotkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/gui/src/Hotkey.h
+END
+IpcClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1846/trunk/src/gui/src/IpcClient.cpp
+END
+VersionChecker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1846/trunk/src/gui/src/VersionChecker.cpp
+END
+MainWindow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1842/trunk/src/gui/src/MainWindow.cpp
+END
+Ipc.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1846/trunk/src/gui/src/Ipc.h
+END
+SettingsDialog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1818/trunk/src/gui/src/SettingsDialog.cpp
+END
+SynergyLocale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1846/trunk/src/gui/src/SynergyLocale.cpp
+END
+KeySequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1656/trunk/src/gui/src/KeySequence.cpp
+END
+ScreenSetupModel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1656/trunk/src/gui/src/ScreenSetupModel.cpp
+END
+ServerConfigDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1656/trunk/src/gui/src/ServerConfigDialog.h
+END
+Action.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/gui/src/Action.h
+END
+Screen.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1656/trunk/src/gui/src/Screen.h
+END
+ScreenSettingsDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1656/trunk/src/gui/src/ScreenSettingsDialog.h
+END
+SetupWizard.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1846/trunk/src/gui/src/SetupWizard.h
+END
+HotkeyDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/gui/src/HotkeyDialog.h
+END
+QUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1846/trunk/src/gui/src/QUtility.h
+END
+KeySequenceWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/gui/src/KeySequenceWidget.h
+END
+CryptoMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1846/trunk/src/gui/src/CryptoMode.h
+END
+TrashScreenWidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/gui/src/TrashScreenWidget.h
+END
+ServerConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/gui/src/ServerConfig.cpp
+END
+NewScreenWidget.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/gui/src/NewScreenWidget.cpp
+END

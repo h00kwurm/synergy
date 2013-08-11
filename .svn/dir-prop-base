@@ -1,0 +1,37 @@
+K 16
+bugtraq:logregex
+V 39
+[Ii]ssues?:?(\s*(,|and)?\s*#\d+)+
+(\d+)
+K 11
+bugtraq:url
+V 61
+http://code.google.com/p/synrgy-plus/issues/detail?id=%BUGID%
+K 10
+svn:ignore
+V 129
+.svnignore
+config.h
+lib
+bin
+build
+CMakeCache.txt
+cmake_install.cmake
+hm.cfg
+CMakeFiles
+MakeFiles
+Makefile
+.project
+.cproject
+tmp
+
+K 13
+svn:mergeinfo
+V 349
+/branches/1.3:838,874-875,879-887,895,979,982,985-986,989-990,994-1007,1010,1012,1014-1016,1018-1043,1046,1049,1104-1106,1113,1118,1120,1122,1124,1126-1127,1180-1184
+/branches/1.4:879-886
+/branches/edge:254-261
+/branches/release-1.3.5:485-487
+/branches/release-1.3.6:654,657-660,662-663,666,668,672
+/trunk:608-626,644,737-739,746,750,959,966-969,974
+END

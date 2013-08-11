@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1842/trunk/src/gui/res/icons/16x16
+END
+synergy-connected.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/src/gui/res/icons/16x16/synergy-connected.png
+END
+synergy-disconnected.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/src/gui/res/icons/16x16/synergy-disconnected.png
+END
+synergy-connected.psd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/src/gui/res/icons/16x16/synergy-connected.psd
+END
+synergy-disconnected.psd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/src/gui/res/icons/16x16/synergy-disconnected.psd
+END
+warning.png
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1464/trunk/src/gui/res/icons/16x16/warning.png
+END
+money.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1842/trunk/src/gui/res/icons/16x16/money.png
+END

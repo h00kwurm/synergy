@@ -1,0 +1,98 @@
+10
+
+dir
+1855
+http://svn.synergy-foss.org/trunk/src/lib
+http://svn.synergy-foss.org
+
+
+
+2013-08-02T16:48:09.296011Z
+1854
+nick
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+33c40d52-04ba-11de-a43f-ff96a2b7a9af
+
+mt
+dir
+
+synergy
+dir
+
+platform
+dir
+
+net
+dir
+
+server
+dir
+
+io
+dir
+
+common
+dir
+
+base
+dir
+
+synwinhk
+dir
+
+ipc
+dir
+
+arch
+dir
+
+CMakeLists.txt
+file
+
+
+
+
+2013-08-11T23:26:56.000000Z
+110ecadda350da50fa86464d81dc40da
+2013-08-02T13:21:06.951892Z
+1853
+jerry
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1016
+
+client
+dir
+

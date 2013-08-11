@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1853/trunk/src/plugin/winmmjoy
+END
+winmmjoy.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/plugin/winmmjoy/winmmjoy.h
+END
+winmmjoy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1853/trunk/src/plugin/winmmjoy/winmmjoy.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1656/trunk/src/plugin/winmmjoy/CMakeLists.txt
+END

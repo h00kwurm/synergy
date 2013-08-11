@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/scripts
+END
+fuse_gtest_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/scripts/fuse_gtest_files.py
+END
+gen_gtest_pred_impl.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/scripts/gen_gtest_pred_impl.py
+END
+pump.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/scripts/pump.py
+END
+gtest-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/scripts/gtest-config.in
+END

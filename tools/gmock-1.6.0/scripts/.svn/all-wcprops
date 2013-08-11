@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts
+END
+gmock-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/gmock-config.in
+END
+fuse_gmock_files.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/fuse_gmock_files.py
+END

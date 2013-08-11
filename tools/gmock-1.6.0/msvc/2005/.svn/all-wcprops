@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005
+END
+gmock_config.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005/gmock_config.vsprops
+END
+gmock_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005/gmock_test.vcproj
+END
+gmock.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005/gmock.vcproj
+END
+gmock_main.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005/gmock_main.vcproj
+END
+gmock.sln
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/msvc/2005/gmock.sln
+END

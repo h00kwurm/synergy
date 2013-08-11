@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/!svn/ver/1853/trunk/res
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1464/trunk/res/config.h.in
+END
+doxygen.cfg.in
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/1464/trunk/res/doxygen.cfg.in
+END
+License.tex
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1464/trunk/res/License.tex
+END
+synergy.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1853/trunk/res/synergy.nsh
+END
+synergy.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/!svn/ver/1464/trunk/res/synergy.desktop
+END
+ShellExecAsUser.dll
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1570/trunk/res/ShellExecAsUser.dll
+END
+synergy.ico
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1464/trunk/res/synergy.ico
+END
+Installer.nsi.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/!svn/ver/1489/trunk/res/Installer.nsi.in
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/!svn/ver/1464/trunk/res/Readme.txt
+END
+License.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1464/trunk/res/License.rtf
+END
+DefineIfExist.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1543/trunk/res/DefineIfExist.nsh
+END

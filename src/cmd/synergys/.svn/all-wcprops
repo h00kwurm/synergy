@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1853/trunk/src/cmd/synergys
+END
+COSXServerTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1838/trunk/src/cmd/synergys/COSXServerTaskBarReceiver.cpp
+END
+synergys.rc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1464/trunk/src/cmd/synergys/synergys.rc
+END
+COSXServerTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1838/trunk/src/cmd/synergys/COSXServerTaskBarReceiver.h
+END
+tb_error.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1464/trunk/src/cmd/synergys/tb_error.ico
+END
+CXWindowsServerTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1838/trunk/src/cmd/synergys/CXWindowsServerTaskBarReceiver.cpp
+END
+synergys.ico
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1464/trunk/src/cmd/synergys/synergys.ico
+END
+CXWindowsServerTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1838/trunk/src/cmd/synergys/CXWindowsServerTaskBarReceiver.h
+END
+tb_wait.ico
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1464/trunk/src/cmd/synergys/tb_wait.ico
+END
+tb_run.ico
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/src/cmd/synergys/tb_run.ico
+END
+CMSWindowsServerTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1837/trunk/src/cmd/synergys/CMSWindowsServerTaskBarReceiver.cpp
+END
+synergys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1837/trunk/src/cmd/synergys/synergys.cpp
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/src/cmd/synergys/.gitignore
+END
+CMSWindowsServerTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1837/trunk/src/cmd/synergys/CMSWindowsServerTaskBarReceiver.h
+END
+tb_idle.ico
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1464/trunk/src/cmd/synergys/tb_idle.ico
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1464/trunk/src/cmd/synergys/resource.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1853/trunk/src/cmd/synergys/CMakeLists.txt
+END

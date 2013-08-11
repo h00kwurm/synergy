@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1811/trunk/src/cmd/synergyd
+END
+synergyd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1656/trunk/src/cmd/synergyd/synergyd.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1811/trunk/src/cmd/synergyd/CMakeLists.txt
+END

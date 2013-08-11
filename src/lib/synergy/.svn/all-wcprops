@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/!svn/ver/1853/trunk/src/lib/synergy
+END
+CArgsBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1853/trunk/src/lib/synergy/CArgsBase.h
+END
+OptionTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1656/trunk/src/lib/synergy/OptionTypes.h
+END
+CClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/lib/synergy/CClipboard.cpp
+END
+CFileChunker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1853/trunk/src/lib/synergy/CFileChunker.cpp
+END
+Global.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1656/trunk/src/lib/synergy/Global.h
+END
+CServerTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1837/trunk/src/lib/synergy/CServerTaskBarReceiver.cpp
+END
+XScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/lib/synergy/XScreen.h
+END
+CPortableTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1837/trunk/src/lib/synergy/CPortableTaskBarReceiver.h
+END
+KeyTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/lib/synergy/KeyTypes.h
+END
+CClientTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1837/trunk/src/lib/synergy/CClientTaskBarReceiver.h
+END
+CApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1853/trunk/src/lib/synergy/CApp.h
+END
+ClipboardTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1656/trunk/src/lib/synergy/ClipboardTypes.h
+END
+CKeyState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1837/trunk/src/lib/synergy/CKeyState.cpp
+END
+CPlatformScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1853/trunk/src/lib/synergy/CPlatformScreen.h
+END
+CAppUtilWindows.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1837/trunk/src/lib/synergy/CAppUtilWindows.h
+END
+CPacketStreamFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/1837/trunk/src/lib/synergy/CPacketStreamFilter.h
+END
+IPlatformScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1853/trunk/src/lib/synergy/IPlatformScreen.h
+END
+IKeyState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1837/trunk/src/lib/synergy/IKeyState.cpp
+END
+XScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1656/trunk/src/lib/synergy/XScreen.cpp
+END
+CClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/synergy/CClipboard.h
+END
+CFileChunker.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1846/trunk/src/lib/synergy/CFileChunker.h
+END
+CServerTaskBarReceiver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1837/trunk/src/lib/synergy/CServerTaskBarReceiver.h
+END
+CDaemonApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1837/trunk/src/lib/synergy/CDaemonApp.h
+END
+KeyTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/synergy/KeyTypes.cpp
+END
+CClientApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1853/trunk/src/lib/synergy/CClientApp.cpp
+END
+CApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1846/trunk/src/lib/synergy/CApp.cpp
+END
+ProtocolTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1853/trunk/src/lib/synergy/ProtocolTypes.cpp
+END
+CAppUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/lib/synergy/CAppUtil.h
+END
+CPlatformScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1837/trunk/src/lib/synergy/CPlatformScreen.cpp
+END
+IPrimaryScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1837/trunk/src/lib/synergy/IPrimaryScreen.cpp
+END
+CKeyMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/src/lib/synergy/CKeyMap.h
+END
+CKeyState.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1837/trunk/src/lib/synergy/CKeyState.h
+END
+CProtocolUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1846/trunk/src/lib/synergy/CProtocolUtil.cpp
+END
+ISecondaryScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1853/trunk/src/lib/synergy/ISecondaryScreen.h
+END
+IKeyState.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1837/trunk/src/lib/synergy/IKeyState.h
+END
+CDaemonApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1853/trunk/src/lib/synergy/CDaemonApp.cpp
+END
+IClipboard.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/lib/synergy/IClipboard.cpp
+END
+CServerApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1853/trunk/src/lib/synergy/CServerApp.cpp
+END
+CAppUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/synergy/CAppUtil.cpp
+END
+MouseTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/synergy/MouseTypes.h
+END
+CScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1853/trunk/src/lib/synergy/CScreen.cpp
+END
+CClientApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1837/trunk/src/lib/synergy/CClientApp.h
+END
+XSynergy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1807/trunk/src/lib/synergy/XSynergy.cpp
+END
+CKeyMap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1716/trunk/src/lib/synergy/CKeyMap.cpp
+END
+CArgsBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1811/trunk/src/lib/synergy/CArgsBase.cpp
+END
+CAppUtilUnix.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1838/trunk/src/lib/synergy/CAppUtilUnix.h
+END
+ProtocolTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1853/trunk/src/lib/synergy/ProtocolTypes.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1853/trunk/src/lib/synergy/CMakeLists.txt
+END
+IScreenSaver.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1656/trunk/src/lib/synergy/IScreenSaver.h
+END
+IApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1838/trunk/src/lib/synergy/IApp.h
+END
+IPrimaryScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1853/trunk/src/lib/synergy/IPrimaryScreen.h
+END
+INode.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1845/trunk/src/lib/synergy/INode.h
+END
+CProtocolUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/lib/synergy/CProtocolUtil.h
+END
+CPortableTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1837/trunk/src/lib/synergy/CPortableTaskBarReceiver.cpp
+END
+IClipboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/synergy/IClipboard.h
+END
+CClientTaskBarReceiver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1837/trunk/src/lib/synergy/CClientTaskBarReceiver.cpp
+END
+CServerApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1845/trunk/src/lib/synergy/CServerApp.h
+END
+CAppUtilUnix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1838/trunk/src/lib/synergy/CAppUtilUnix.cpp
+END
+CScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1853/trunk/src/lib/synergy/CScreen.h
+END
+IClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1853/trunk/src/lib/synergy/IClient.h
+END
+IAppUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1656/trunk/src/lib/synergy/IAppUtil.h
+END
+CAppUtilWindows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1853/trunk/src/lib/synergy/CAppUtilWindows.cpp
+END
+CPacketStreamFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1837/trunk/src/lib/synergy/CPacketStreamFilter.cpp
+END
+IScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1846/trunk/src/lib/synergy/IScreen.h
+END
+XSynergy.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1807/trunk/src/lib/synergy/XSynergy.h
+END

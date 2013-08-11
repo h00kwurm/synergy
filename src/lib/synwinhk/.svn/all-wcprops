@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1853/trunk/src/lib/synwinhk
+END
+synwinhk.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1853/trunk/src/lib/synwinhk/synwinhk.h
+END
+synwinhk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1853/trunk/src/lib/synwinhk/synwinhk.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1853/trunk/src/lib/synwinhk/CMakeLists.txt
+END

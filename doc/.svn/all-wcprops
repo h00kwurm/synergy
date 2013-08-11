@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/!svn/ver/1464/trunk/doc
+END
+org.synergy-foss.org.synergyc.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/doc/org.synergy-foss.org.synergyc.plist
+END
+org.synergy-foss.org.synergys.plist
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/doc/org.synergy-foss.org.synergys.plist
+END
+synergy.conf.example-advanced
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1464/trunk/doc/synergy.conf.example-advanced
+END
+MacReadme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/!svn/ver/1464/trunk/doc/MacReadme.txt
+END
+synergy.conf.example-basic
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1464/trunk/doc/synergy.conf.example-basic
+END
+synergyc.man
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1464/trunk/doc/synergyc.man
+END
+synergys.man
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/1464/trunk/doc/synergys.man
+END
+synergy.conf.example
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1464/trunk/doc/synergy.conf.example
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear
+END
+gtest_all.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest_all.cc
+END
+gtest_unittest.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest_unittest.cbproj
+END
+gtest.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest.cbproj
+END
+gtest_link.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest_link.cc
+END
+gtest_main.cbproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest_main.cbproj
+END
+gtest.groupproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1464/trunk/tools/gtest-1.6.0/codegear/gtest.groupproj
+END

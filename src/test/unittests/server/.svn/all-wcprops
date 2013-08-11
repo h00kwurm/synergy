@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1845/trunk/src/test/unittests/server
+END
+CMockPrimaryClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1845/trunk/src/test/unittests/server/CMockPrimaryClient.h
+END
+CClientProxyTests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1837/trunk/src/test/unittests/server/CClientProxyTests.cpp
+END
+CMockConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1845/trunk/src/test/unittests/server/CMockConfig.h
+END
+CMockInputFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1845/trunk/src/test/unittests/server/CMockInputFilter.h
+END
+CMockServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1837/trunk/src/test/unittests/server/CMockServer.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1853/trunk/tools/build
+END
+generators.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1656/trunk/tools/build/generators.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1656/trunk/tools/build/__init__.py
+END
+toolchain.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1853/trunk/tools/build/toolchain.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1464/trunk/tools/build/README.txt
+END
+ftputil.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1656/trunk/tools/build/ftputil.py
+END

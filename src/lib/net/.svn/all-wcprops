@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/!svn/ver/1845/trunk/src/lib/net
+END
+ISocketFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/1656/trunk/src/lib/net/ISocketFactory.h
+END
+CTCPSocketFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1845/trunk/src/lib/net/CTCPSocketFactory.h
+END
+IDataSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1837/trunk/src/lib/net/IDataSocket.h
+END
+CTCPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1845/trunk/src/lib/net/CTCPSocket.cpp
+END
+CNetworkAddress.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/1656/trunk/src/lib/net/CNetworkAddress.cpp
+END
+ISocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1837/trunk/src/lib/net/ISocket.h
+END
+CTCPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1845/trunk/src/lib/net/CTCPSocket.h
+END
+CNetworkAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/!svn/ver/1656/trunk/src/lib/net/CNetworkAddress.h
+END
+TSocketMultiplexerMethodJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1656/trunk/src/lib/net/TSocketMultiplexerMethodJob.h
+END
+XSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/1656/trunk/src/lib/net/XSocket.cpp
+END
+CTCPListenSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1845/trunk/src/lib/net/CTCPListenSocket.cpp
+END
+IListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1837/trunk/src/lib/net/IListenSocket.h
+END
+XSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/1656/trunk/src/lib/net/XSocket.h
+END
+CTCPListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/1845/trunk/src/lib/net/CTCPListenSocket.h
+END
+CSocketMultiplexer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1845/trunk/src/lib/net/CSocketMultiplexer.cpp
+END
+CTCPSocketFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/1845/trunk/src/lib/net/CTCPSocketFactory.cpp
+END
+IDataSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1837/trunk/src/lib/net/IDataSocket.cpp
+END
+CSocketMultiplexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1845/trunk/src/lib/net/CSocketMultiplexer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/1837/trunk/src/lib/net/CMakeLists.txt
+END
+ISocketMultiplexerJob.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1656/trunk/src/lib/net/ISocketMultiplexerJob.h
+END

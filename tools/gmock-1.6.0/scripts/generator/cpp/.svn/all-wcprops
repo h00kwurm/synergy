@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp
+END
+tokenize.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/tokenize.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/utils.py
+END
+gmock_class.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/gmock_class.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/ast.py
+END
+keywords.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1464/trunk/tools/gmock-1.6.0/scripts/generator/cpp/keywords.py
+END
